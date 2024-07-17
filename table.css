@@ -1,0 +1,30 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:lightblue;
+    
+}
+td{
+    width: 80px;
+    height: 80px;
+    border-radius:9px;
+    background-color: brown;
+    color: beige;
+    
+}
+table{
+    border-radius: 7px;
+    align-items: center;
+    text-align: center;
+    
+}
+td:active{
+   background-color:white;
+}
+td:hover
+{
+    color:yellow;
+}
